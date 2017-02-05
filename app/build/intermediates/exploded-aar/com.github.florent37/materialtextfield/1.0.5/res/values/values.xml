@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialTextField"><attr format="dimension" name="mtf_cardCollapsedHeight"/><attr format="color" name="mtf_labelColor"/><attr format="reference" name="mtf_image"/><attr format="integer" name="mtf_animationDuration"/><attr format="boolean" name="mtf_openKeyboardOnFocus"/></declare-styleable>
+    <dimen name="mtf_cardHeight_final">55dp</dimen>
+    <dimen name="mtf_cardHeight_initial">4dp</dimen>
+    <dimen name="mtf_corner_radius">4dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MaterialTextField</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

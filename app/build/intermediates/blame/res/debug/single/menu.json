@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/pankaj/Workspace/ChatAround/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/pankaj/Workspace/ChatAround/app/build/intermediates/exploded-aar/com.github.florent37/materialtextfield/1.0.5/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/pankaj/Workspace/ChatAround/app/build/intermediates/res/merged/debug/menu/main_inside.xml",
+        "source": "/home/pankaj/Workspace/ChatAround/app/src/main/res/menu/main_inside.xml"
+    },
+    {
+        "merged": "/home/pankaj/Workspace/ChatAround/app/build/intermediates/res/merged/debug/menu/crop_image_menu.xml",
+        "source": "/home/pankaj/Workspace/ChatAround/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/res/menu/crop_image_menu.xml"
+    }
+]
